@@ -9,23 +9,20 @@
 ## 💻 **Carrera de Computación**
 <br>
 
-### 🧠 **Asignatura:** Teoría de la Programación  
+### 🧠 **Asignatura:** Matemáticas Discretas  
 ### 📆 **Ciclo:** Primer Ciclo  
 ### 🗓️ **Período Académico:** Octubre 2025 – Febrero 2026  
 <br>
 
 ### 👩‍🏫 **Docente:** Ing. Cueva Mario  
 ### 🧑‍🎓 **Estudiante:** José Daniel Maldonado Rodríguez  
-<br>
 
 </div>
 
 
 #### 💡 **Descripción del Portafolio**
 
-Este portafolio digital tiene como objetivo recopilar y evidenciar los aprendizajes, proyectos y ejercicios desarrollados durante la asignatura **Teoría de la Programación**.  
-Aquí se incluyen resúmenes teóricos, prácticas, programas elaborados en C y reflexiones personales sobre el proceso de aprendizaje.
-
+Este portafolio digital tiene como objetivo recopilar y evidenciar los aprendizajes, proyectos y ejercicios desarrollados durante la asignatura **Matemáticas Discretas**.
 ---
 
 #### 💻 **Contenido**
