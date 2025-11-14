@@ -2,7 +2,7 @@
 
 <div align="center">
   
-# 📘 Portafolio Digital – Teoría de la Programación 📘
+# 📘 Portafolio Digital – Matemáticas Discretas
   
 # **Universidad Nacional de Loja**
 
@@ -25,7 +25,8 @@
 
 #### 💡 **Descripción del Portafolio**
 
-Este portafolio digital tiene como objetivo recopilar y evidenciar los aprendizajes, proyectos y ejercicios desarrollados durante la asignatura **Matemáticas Discretas**.
+Este portafolio digital tiene como objetivo recopilar y evidenciar los aprendizajes, proyectos y ejercicios desarrollados durante la asignatura **Matemáticas Discretas.
+
 ---
 
 #### 💻 **Contenido**
