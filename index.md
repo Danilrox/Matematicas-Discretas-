@@ -2,7 +2,7 @@
 
 <div align="center">
   
-# 📘 Portafolio Digital de Aprendizaje – Teoría de la Programación 📘
+# 📘 Portafolio Digital – Teoría de la Programación 📘
   
 # **Universidad Nacional de Loja**
 
@@ -16,6 +16,9 @@
 
 ### 👩‍🏫 **Docente:** Ing. Cueva Mario  
 ### 🧑‍🎓 **Estudiante:** José Daniel Maldonado Rodríguez  
+<br>
+
+## 🌟 *Portafolio Digital* 🌟
 
 </div>
 
