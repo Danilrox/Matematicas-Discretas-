@@ -1,2 +1,2 @@
-# Matem-ticas-Discretas-
+# Matematicas-Discretas-
 Portafolio digital 
