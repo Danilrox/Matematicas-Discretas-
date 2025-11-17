@@ -147,13 +147,11 @@ La negación cambia conectores y niega cada término.
 - p ∨ (p ∧ q) ≡ p  
 - p ∧ (p ∨ q) ≡ p
 
----
+
 
 # 🧠 Reglas de Inferencia
 
 Las reglas de inferencia permiten derivar conclusiones válidas a partir de premisas. Son la base de las demostraciones lógicas.
-
----
 
 ## 🔹 1. **Modus Ponens (MP)**
 Si p es verdadero y p → q es verdadero, entonces q es verdadero.
@@ -244,16 +242,21 @@ Premisas:
 Conclusión:  
 ∴ p ∧ q  
 
-## Actividades realizadas
+## 📌 Actividades realizadas
 
 ### Aprendizaje en contacto con el docente (ACD)
+En la primera actividad (ACD1) se desarrolla una presentación completa sobre los conceptos básicos de la lógica proposicional, incluyendo qué es una proposición lógica, los distintos conectores lógicos (negación, conjunción, disyunción, condicional y bicondicional) y el uso de tablas de verdad para evaluar proposiciones compuestas. 
+
+En la segunda actividad (ACD2) se profundiza en las leyes fundamentales de la lógica proposicional (identidad, idempotencia, negación, doble negación, absorción, etc.) y en las principales reglas de inferencia, como Modus Ponens, Modus Tollens, Silogismo Hipotético, Silogismo Disyuntivo, Adición, Simplificación y Conjunción. 
 [ACD1](ACD1.pdf)
 <br>
 [ACD2](ACD2.pdf)
 
 ### Aprendizaje práctico experimental (APE) 
+Esta es un actividad grupal enfocada en los conceptos básicos de lógica proposicional como tablas de verdad y conectores lógicos.
 [APE1](APE1.pdf)
 
 ### Aprendizaje autónomo (AA) 
+Esta es un actividad grupal con ejercicios sobre leyes de las preposiciones y reglas de las inferencias.
 [AA1](AA1)
 
