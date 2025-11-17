@@ -89,16 +89,16 @@ Una tabla de verdad permite analizar cómo varía el valor de una proposición c
 # 📌 Actividades realizadas
 
 ### 🤝 Aprendizaje en contacto con el docente (ACD)
-En la primera actividad (ACD1) se desarrolla una presentación completa sobre los conceptos básicos de la lógica proposicional, incluyendo qué es una proposición lógica, los distintos conectores lógicos (negación, conjunción, disyunción, condicional y bicondicional) y el uso de tablas de verdad para evaluar proposiciones compuestas. [ACD1](ACD1.pdf)
+- En la primera actividad (ACD1) se desarrolla una presentación completa sobre los conceptos básicos de la lógica proposicional, incluyendo qué es una proposición lógica, los distintos conectores lógicos (negación, conjunción, disyunción, condicional y bicondicional) y el uso de tablas de verdad para evaluar proposiciones compuestas. [ACD1](ACD1.pdf)
 
-En la segunda actividad (ACD2) se profundiza en las leyes fundamentales de la lógica proposicional (identidad, idempotencia, negación, doble negación, absorción, etc.) y en las principales reglas de inferencia, como Modus Ponens, Modus Tollens, Silogismo Hipotético, Silogismo Disyuntivo, Adición, Simplificación y Conjunción. [ACD2](ACD2.pdf)
+- En la segunda actividad (ACD2) se profundiza en las leyes fundamentales de la lógica proposicional (identidad, idempotencia, negación, doble negación, absorción, etc.) y en las principales reglas de inferencia, como Modus Ponens, Modus Tollens, Silogismo Hipotético, Silogismo Disyuntivo, Adición, Simplificación y Conjunción. [ACD2](ACD2.pdf)
 
 ### 🛠️ Aprendizaje práctico experimental (APE) 
-Esta es un actividad grupal enfocada en los conceptos básicos de lógica proposicional como tablas de verdad y conectores lógicos.
+- Esta es un actividad grupal enfocada en los conceptos básicos de lógica proposicional como tablas de verdad y conectores lógicos.
 [APE1](APE1.pdf)
 
 ### ✍️ Aprendizaje autónomo (AA) 
-Esta es un actividad grupal con ejercicios sobre leyes de las preposiciones y reglas de las inferencias. [AA1](AA1.pdf)
+- Esta es un actividad grupal con ejercicios sobre leyes de las preposiciones y reglas de las inferencias. [AA1](AA1.pdf)
 
-Link al portafolio digital. [AA2](AA2.pdf)
+- Link al portafolio digital. [AA2](AA2.pdf)
 
