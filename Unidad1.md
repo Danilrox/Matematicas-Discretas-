@@ -86,7 +86,7 @@ Una tabla de verdad permite analizar cómo varía el valor de una proposición c
 
 ---
 
-## 📌 Actividades realizadas
+# 📌 Actividades realizadas
 
 ### 🤝 Aprendizaje en contacto con el docente (ACD)
 En la primera actividad (ACD1) se desarrolla una presentación completa sobre los conceptos básicos de la lógica proposicional, incluyendo qué es una proposición lógica, los distintos conectores lógicos (negación, conjunción, disyunción, condicional y bicondicional) y el uso de tablas de verdad para evaluar proposiciones compuestas. [ACD1](ACD1.pdf)
