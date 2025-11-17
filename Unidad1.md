@@ -1,4 +1,7 @@
 # 🧩 Unidad 1: Lógica
+
+## [↩️ Volver a la portada](index.md)
+
 ## Lógica Proposicional
 
 **¿Qué es una proposición lógica?**
@@ -81,8 +84,10 @@ Una tabla de verdad permite analizar cómo varía el valor de una proposición c
 - **Contradicción** → siempre falsa.  
 - **Contingencia** → mezcla de valores (a veces V y F).
 
+---
 
-## [↩️ Volver a la portada](index.md)
+## Actividades realizadas
+
 ### Aprendizaje en contacto con el docente (ACD)
 [ACD1](ACD1.pdf)
 <br>
