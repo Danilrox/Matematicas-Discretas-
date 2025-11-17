@@ -98,6 +98,7 @@ Esta es un actividad grupal enfocada en los conceptos básicos de lógica propos
 [APE1](APE1.pdf)
 
 ### ✍️ Aprendizaje autónomo (AA) 
-Esta es un actividad grupal con ejercicios sobre leyes de las preposiciones y reglas de las inferencias.
-[AA1](AA1.pdf)
+Esta es un actividad grupal con ejercicios sobre leyes de las preposiciones y reglas de las inferencias. [AA1](AA1.pdf)
+
+Link al portafolio digital. [AA2](AA2.pdf)
 
