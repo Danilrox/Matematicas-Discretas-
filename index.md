@@ -25,7 +25,7 @@
 
 #### 💡 **Descripción del Portafolio**
 
-Este portafolio digital tiene como objetivo recopilar y evidenciar los aprendizajes, proyectos y ejercicios desarrollados durante la asignatura matemáticas Discretas.
+Este portafolio digital tiene como objetivo recopilar y evidenciar las actividades desarrolladas durante la asignatura matemáticas Discretas.
 
 ---
 
