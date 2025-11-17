@@ -1,8 +1,6 @@
-# 🧩 Unidad 1: Lógica
-
 ## [↩️ Volver a la portada](index.md)
 
-## Lógica Proposicional
+## 📘 Lógica Proposicional
 
 **¿Qué es una proposición lógica?**
 Una proposición lógica es una oración declarativa que siempre tiene un valor de verdad definido: es verdadero (V) o falso (F). No puede ser ambigua ni carecer de valor de verdad. Las proposiciones son los componentes fundamentales de la lógica formal. 
