@@ -14,7 +14,7 @@
 ### 🗓️ **Período Académico:** Octubre 2025 – Febrero 2026  
 <br>
 
-### 👩‍🏫 **Docente:** Ing. Cueva Mario  
+### 👨‍🏫 **Docente:** Ing. Cueva Mario  
 ### 🧑‍🎓 **Estudiante:** José Daniel Maldonado Rodríguez  
 <br>
 
