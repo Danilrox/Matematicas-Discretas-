@@ -99,5 +99,5 @@ Esta es un actividad grupal enfocada en los conceptos básicos de lógica propos
 
 ### ✍️ Aprendizaje autónomo (AA) 
 Esta es un actividad grupal con ejercicios sobre leyes de las preposiciones y reglas de las inferencias.
-[AA1](AA1)
+[AA1](AA1.pdf)
 
